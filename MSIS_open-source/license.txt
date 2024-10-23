@@ -1,0 +1,10 @@
+©MSI Suite is proprietary software. Meaning that users do NOT have permission to do the following to the program:
+  Modify
+  Distribute
+  Private use
+  Commercial use
+  Patent use
+
+This program is not open-source.
+Forking or copying protected material will result in actions being taken.
+Your cooperation and understanding is highly valued, thank you for reading and complying with this license.
