@@ -17,3 +17,7 @@ here is a table of valid keys for MSI Suite:
 # Why doesn't Weather or News work?
 
 Those functions used APIs that required me to get a key for, to use them, you have to get your own key. Which thankfully, is free!
+
+---
+
+<sub> Also be aware that the copyright and license inside of the MSI Suite folder are outdated! Please refer to our current licenses for clarity. </sub>
